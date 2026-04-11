@@ -3,12 +3,14 @@
 A simple contact page built using HTML and Bootstrap CSS.
 
 🚀 Features
-Clean and responsive design
-Contact form layout
-User-friendly interface
+- Clean and responsive design
+- Contact form layout
+- User-friendly interface
+
 🛠️ Tech Stack
-HTML
-Bootstrap
+- HTML
+- Bootstrap
+
 ⚙️ Description
 
 This project demonstrates a basic contact form page design using Bootstrap for styling and layout.
