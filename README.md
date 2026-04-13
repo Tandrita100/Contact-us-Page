@@ -1,20 +1,20 @@
-📞 Contact Us Page
+# 📞 Contact Us Page
 
 A simple contact page built using HTML and Bootstrap CSS.
 
-🚀 Features
+# 🚀 Features
 - Clean and responsive design
 - Contact form layout
 - User-friendly interface
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 - HTML
 - Bootstrap
 
-⚙️ Description
+# ⚙️ Description
 
 This project demonstrates a basic contact form page design using Bootstrap for styling and layout.
 
-📌 Note
+@ 📌 Note
 
 This is a front-end project and does not include form submission or backend functionality.
