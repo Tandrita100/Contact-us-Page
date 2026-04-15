@@ -15,6 +15,6 @@ A simple contact page built using HTML and Bootstrap CSS.
 
 This project demonstrates a basic contact form page design using Bootstrap for styling and layout.
 
-@ 📌 Note
+# 📌 Note
 
 This is a front-end project and does not include form submission or backend functionality.
